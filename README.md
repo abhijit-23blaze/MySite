@@ -1,7 +1,8 @@
-<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Abhijit Patil</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Blaccat69</h1>
 
 
-![Header Image](https://github.com/user-attachments/assets/657233d4-4ea4-4300-a095-30b273524462)
+
+![image](https://github.com/user-attachments/assets/779f8042-d933-42ff-9c94-93a8afd92b97)
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
